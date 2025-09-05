@@ -1,6 +1,3 @@
-# README.md
-
-````markdown
 # 🔍 AWS Lambda Search & Fetch Engine
 
 > **Serverless search pipeline** powered by DuckDuckGo + Playwright  
@@ -220,5 +217,3 @@ Please ensure code is black-formatted and logging is not too noisy.
 ## 📜 License
 
 MIT License © 2025
-
-```
