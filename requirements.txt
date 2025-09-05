@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain-google-genai
+boto3
+python-dotenv
+tldextract
+beautifulsoup4
+mcp
+flask
+flask-socketio
